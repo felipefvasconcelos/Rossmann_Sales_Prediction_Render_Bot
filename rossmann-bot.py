@@ -16,7 +16,7 @@ TOKEN = '5586124916:AAEwF7bjMiABddVdkd_SLyyQqTV5NLOPl5o'
 # https://api.telegram.org/bot5586124916:AAEwF7bjMiABddVdkd_SLyyQqTV5NLOPl5o/getUpdates
 
 ## Webhook
-# https://api.telegram.org/bot5586124916:AAEwF7bjMiABddVdkd_SLyyQqTV5NLOPl5o/setWebhook?url=https://render-rossmann-api.onrender.com/
+# https://api.telegram.org/bot5586124916:AAEwF7bjMiABddVdkd_SLyyQqTV5NLOPl5o/setWebhook?url=https://render-rossmann-bot.onrender.com
 
 ## send message
 # https://api.telegram.org/bot5586124916:AAEwF7bjMiABddVdkd_SLyyQqTV5NLOPl5o/sendMessage?chat_id=5055945864&text=Hello%20Felipe,%20how%20are%20u?
